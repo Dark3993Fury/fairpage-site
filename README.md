@@ -4,7 +4,7 @@ FairPage is a free Chrome extension that detects dark patterns and checkout trap
 
 ## Links
 - [Chrome Web Store](CHROME_STORE_URL_PLACEHOLDER)
-- [Live Landing Page](https://github.com/Dark3993Fury/fairpage-site)
+- [Live Landing Page](https://dark3993fury.github.io/fairpage-site/)
 
 ## Running Locally
 This website is completely static. To run it locally:
